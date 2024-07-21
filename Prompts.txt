@@ -1,0 +1,24 @@
+Prompts:
+
+Midjourney
+
+Imagine The HTML logo with a shadow inspired by a Dementor
+
+ChatGPT
+
+Comporte-se como um escritor de artigos tech front-end e escreva um Artigo atendendo as regras abaixo
+
+{REGRAS}
+> No máximo 10 linhas por blocos
+> Explique de maneira informal como se eu fosse uma criança de 10 anos e como se estivesse escrevendo um roteiro para um canal jovem do youtube
+> Os blocos que serão criados estão abaixo
+- O que é DOM?
+- O que são elementos HTML com exemplos de códigos
+- O que é Shadow DOM e exemplo de códigos
+- Qual a importância de utilizar Shadow DOM?
+- Exemplos de sites reais muito conhecidos que utilizam elementos HTML criados com Shadow DOM
+
+Excelente! Crie um exemplo de código para a explicação abaixo:
+Outro exemplo é o Google Maps, que usa isso pra garantir que o mapa funcione direitinho, mesmo que você mexa em outras partes da página. Assim, esses sites ficam mais rápidos, seguros e fáceis de usar!
+
+Crie um exemplo de código para a shadow DOM dos botões de controle de vídeo do Youtube
